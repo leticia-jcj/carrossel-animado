@@ -1,0 +1,1 @@
+​Desenvolva um slideshow (carrossel) que muda automaticamente a imagem a cada dois segundos. Para tanto, utilize HTML para estruturar os elementos de marcação, CSS para estilizar o slideshow e javascript para automatizar a mudança de imagens a cada 2 segundos.​
